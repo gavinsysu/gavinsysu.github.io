@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-Junbo Wang, Professor 
+Short Biography
 ======
 Dr. Junbo Wang received his Bachelor and Master degree from Yanshan University, China, in electrical engineering. He received his PhD degree
 from University of Aizu, Japan in computer science and engineering in 2011. During his PhD period, he was awarded as a non-Japanese researcher by NEC C&C foundation in 2010. He was a postdoctoral researcher in IoT Strategic Research Group at the University of Aizu, from May 2011 to Oct. 2012. And then he served as an associate professor in the University of Aizu from 2012 to 2019. Currently, he is a Full professor in the School of Intelligent Systems Engineering, Sun Yat-sen University, Shenzhen China. He has led 4 national research projects in China and Japan, especially he was the project leader of a Japan-USA national cooperation project, cooperating with professors at Temple University, which has been sponsored by JST-NSF joint funding. His research interests includes Machine Learning, Federated Learning, Privacy and Security, Robotics and Multi-agent Systems.
