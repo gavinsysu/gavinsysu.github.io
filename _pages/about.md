@@ -11,12 +11,32 @@ redirect_from:
 
 Bio
 ======
-He received his BS and MS degrees in Electrical and Electronic Engineering from Yanshan University, China and his PhD degree in Computer Science and Engineering from the University of Aizu, Japan in 2011. He was a Postdoctoral Scholar and Associate Professor in the University of Aizu, Japan. Current he is a Professor in School of Intelligent Systems Engineering, Sun Yat-sen University, China. His research interests include collaborative ML, federated learning, machine learning privacy. 
+Dr. Junbo Wang received his Bachelor and Master degree from Yanshan University, China, in electrical engineering. He received his PhD degree
+from University of Aizu, Japan in computer science and engineering in 2011. During his PhD period, he was awarded as a non-Japanese researcher by NEC C&C foundation in 2010. He was a postdoctoral researcher in IoT Strategic Research Group at the University of Aizu, from May 2011 to Oct. 2012. And then he served as an associate professor in the University of Aizu from 2012 to 2019. Currently, he is a Full professor in the School of Intelligent Systems Engineering, Sun Yat-sen University, Shenzhen China. He has led 4 national research projects in China and Japan, especially he was the project leader of a Japan-USA national cooperation project, cooperating with professors at Temple University, which has been sponsored by JST-NSF joint funding. His research interests includes Machine Learning, Federated Learning, Privacy and Security, Robotics and Multi-agent Systems.
 
 Research Interests
 ======
 Machine Learning; Privacy and Security; Federated Learning; Robotics and Multi-Agent Learning 
 
-Research Fundings
+National Research Fundings
 ======
+•	National Natural Science Foundation of China (NSFC), 2021-2024, PI
+
+•	JSPS Grant-in-Aid for Science Research Type C in Japan, 2019-2022, PI
+
+•	JST-NSF Joint Funding for Big Data and Disasterin Japan, 2025-2018, PI at Japan site
+
+•	JSPS Grant-in-Aid for Young Scientists in Japan, 2013-2015, PI
+
+Other Research Fundings
+======
+•	Guangdong Basic and Applied Basic Research Foundation under Grant No. 2025A1515010248.  PI
+
+•	Shenzhen Science and Technology Research Foundation under Grant No. JCYJ20230807110802005 PI
+
+•	Guangdong Basic and Applied Basic Research Foundation under Grant No. 2022A1515011294 PI
+
+•	Guangdong S&T Program Grant No. 2024B1111090001 Co-PI
+
+•	Guangdong Regional Joint Fund Grant No. 2022B151520064 Co-PI
 
