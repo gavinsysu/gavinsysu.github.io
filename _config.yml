@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Junbo Wang / Professor"
+title                    : "Junbo Wang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
