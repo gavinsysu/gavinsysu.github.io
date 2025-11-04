@@ -30,13 +30,13 @@ National Research Fundings
 
 Other Research Fundings
 ======
-•	Guangdong Basic and Applied Basic Research Foundation under Grant No. 2025A1515010248.  PI
+•	Guangdong Basic and Applied Basic Research Foundation under Grant PI
 
-•	Shenzhen Science and Technology Research Foundation under Grant No. JCYJ20230807110802005 PI
+•	Shenzhen Science and Technology Research Foundation under Grant PI
 
-•	Guangdong Basic and Applied Basic Research Foundation under Grant No. 2022A1515011294 PI
+•	Guangdong Basic and Applied Basic Research Foundation under Grant PI
 
-•	Guangdong S&T Program Grant No. 2024B1111090001 Co-PI
+•	Guangdong S&T Program Grant Co-PI
 
-•	Guangdong Regional Joint Fund Grant No. 2022B151520064 Co-PI
+•	Guangdong Regional Joint Fund Grant Co-PI
 
