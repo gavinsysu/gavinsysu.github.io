@@ -20,7 +20,7 @@ Machine Learning; Privacy and Security; Federated Learning; Robotics and Multi-A
 
 National Research Fundings
 ======
-•	National Natural Science Foundation of China (NSFC), 2021-2024, PI
+•	National Natural Science Foundation of China (NSFC), 2021-2024, PI 
 
 •	JSPS Grant-in-Aid for Science Research Type C in Japan, 2019-2022, PI
 
