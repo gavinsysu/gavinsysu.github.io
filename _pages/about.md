@@ -30,13 +30,13 @@ National Research Fundings
 
 Other Research Fundings
 ======
-•	Guangdong Basic and Applied Basic Research Foundation under Grant PI
+•	Guangdong Basic and Applied Basic Research Foundation, 2025-2028,PI
 
-•	Shenzhen Science and Technology Research Foundation under Grant PI
+•	Shenzhen Science and Technology Research Foundation, 2024-2027, PI
 
-•	Guangdong Basic and Applied Basic Research Foundation under Grant PI
+•	Guangdong Basic and Applied Basic Research Foundation, 2021-2024,PI
 
-•	Guangdong S&T Program Grant Co-PI
+•	Guangdong S&T Program, 2024-2027, Co-PI
 
-•	Guangdong Regional Joint Fund Grant Co-PI
+•	Guangdong Regional Joint Funding Program, 2022-2025, Co-PI
 
