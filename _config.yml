@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "junbo.jpg"
+  avatar           : "images/junbo.jpg"
   name             : "Junbo Wang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D in Computer Science and Engineering, now is a Full Professor in Sun Yat-sen University, China."
